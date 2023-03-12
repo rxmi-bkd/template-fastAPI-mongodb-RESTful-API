@@ -1,0 +1,12 @@
+title: title
+description: description
+version: 0.0.1
+base_url: /api/v1
+atlas_url: mongodb+srv://admin:admin@testing.f1sex2x.mongodb.net/?retryWrites=true&w=majority
+db_name: testing
+access_token_lifetime: 10080 # in minutes
+secret_key: Gb9Kas89qUEkG-i5_nROxzEw7Rvxqtm8uITKSONYly8 # use openssl rand -base64 32 to generate
+contact_name: contact_name
+contact_email: email@email.com
+contact_url: https://www.google.com
+config_version: 0.0.1
